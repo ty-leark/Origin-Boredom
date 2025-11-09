@@ -254,21 +254,6 @@
     text-align: right;
 }
 
-.hero__description {
-    font-size: 60px;
-    background: -webkit-linear-gradient(to top,
-            #b78d03 25%,
-            #cfcf1f 100%);
-    background: linear-gradient(to top,
-            #b78d03 25%,
-            #cfcf1f 100%);
-    background-size: 100%;
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -moz-text-fill-color: transparent;
-}
-
 .highlight {
     border-bottom: 4px solid rgb(132, 0, 255);
 }
