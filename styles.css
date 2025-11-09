@@ -342,13 +342,7 @@
 }
 
 #card-2 {
-    background: #ff1435;
-    background: -webkit-linear-gradient(to right,
-            #fc6781,
-            #6d0661);
-    background: linear-gradient(to right,
-            #023b14,
-            #9581fc);
+    background-image: url('nebz-2.gif');
 }
 
 /* Mobile Responsive */
