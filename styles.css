@@ -230,12 +230,12 @@
 
 .hero__heading span {
     background: -webkit-linear-gradient(to top,
-        #ff4cf0 0%,
-        #23003a 75%
+        #db0808 0%,
+        #db0808 75%
         );
     background: linear-gradient(to top,
-        #ff4cf0 0%,
-        #23003a 75%
+        #db0808 0%,
+        #db0808 75%
         );
     font-family: 'Cedarville Cursive', cursive;
     font-weight: 700;
